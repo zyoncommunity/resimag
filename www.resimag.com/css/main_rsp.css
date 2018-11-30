@@ -1,0 +1,24 @@
+@media (max-width: 999px) { 
+	.div_1000{  width:100%;}
+	.div_800{  width:100%;}
+	#yukle_main_div{ width:95%; margin-left:auto; margin-right:auto }
+	
+	#tab_b{ width:50%;}
+	#tab_i{ width:50%;}
+	
+	.div_336{ width:100%; float:none !important; margin-right:auto !important; margin-left:auto !important; margin-top:10px;}
+	.div_644{  width:95%; float:none !important; margin-right:auto !important; margin-left:auto !important;}
+	.mobil_resim{width:100%; height:auto}
+	.m_hide{ display:none}
+	.m_show{ display:block}
+
+	.logo_resimag{ width:168px !important;}
+}
+ 
+
+
+@media (min-width: 1000px) {
+
+
+
+}
